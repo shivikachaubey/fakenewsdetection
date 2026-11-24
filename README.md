@@ -140,7 +140,7 @@ TruthLens/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/adtyaraj4/fakenewsdetection.git
+git clone https://github.com/shivikachaubey/fakenewsdetection.git
 cd fakenewsdetection
 ```
 
@@ -209,9 +209,9 @@ with your own **OpenAI API key**.
 
 ## 👥 Credits
 
-* **Aditya Raj**
-* **Shivika Chaubey**
-* **Gaurvi Garg**
+
+ **Shivika Chaubey**
+
 
 ---
 
